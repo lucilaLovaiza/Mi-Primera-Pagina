@@ -1,0 +1,49 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+    padding: 0%;
+    height: 10px;
+}
+
+header {
+    background-color: rgb(33, 150, 243);
+    padding: 0%;
+}
+
+div.naranja {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 220px;
+    margin-bottom: 100px;
+    height: 500px;
+    background-color: rgb(222, 166, 29);
+    text-align: center;
+}
+
+button.botonppp {
+    height: 50px;
+    width: 280px;
+    color: rgb(76, 211, 227);
+    border-color: rgb(76, 211, 227);
+    border-style: solid;
+    border-width: 1px;
+
+    
+}
+
+footer {
+    background-color: rgb(30, 136, 229);
+    padding: 0%;
+    height: 70px;
+}
+
+button.btna {
+    height: 60px;
+    width: 230px;
+    background-color: white;
+    color: rgb(228, 166, 29);
+    border-color: rgb(228, 166, 29);
+    border-radius: 6px;
+    border-style: solid;
+    border-width: 1px;
+}
